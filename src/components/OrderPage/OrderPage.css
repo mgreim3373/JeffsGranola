@@ -1,0 +1,23 @@
+/* .details {
+  background: rgba(255,255,255, 0.9) !important;
+  animation: detAni 2s ease !important;
+}
+img {
+  animation: imgAni 2s ease !important;
+}
+.order {
+  overflow: hidden;
+}
+
+@keyframes imgAni {
+  to {
+    transform: scale(2.4) translateY(-12.5%) translateX(-10.1%);
+  }
+}
+
+@keyframes detAni {
+  to {
+    transform: translateY(-120%);
+  }
+
+} */

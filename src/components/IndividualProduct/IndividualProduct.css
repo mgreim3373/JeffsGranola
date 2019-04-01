@@ -1,0 +1,29 @@
+.product {
+  margin-bottom: 3em !important;
+}
+
+.product {
+  height: 35.8em;
+  overflow: hidden;
+}
+
+.content.ui.centered {
+  background: white !important;
+  max-height: 50em;
+  transition: transform .5s ease;
+}
+.content.ui.centered.selected {
+  transform: translateY(-75%);
+}
+
+.productImage {
+  transition: transform .5s ease, blur .5s ease;
+}
+
+.productImage.selected {
+  transform: translate(-11%,-14%) scale(1.3);
+}
+
+.ui.vertical.animated.button {
+  width: 100%;
+}

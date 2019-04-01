@@ -16,7 +16,7 @@
   position: relative;
 }
 .textAnimationOuterContainer{
-  background-image: url(/static/media/granola.0cce3d5f.jpg);
+  background-image: url('./granola.jpg');
   position: absolute;
   left: -2em;
   width: 120%;

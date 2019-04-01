@@ -22,9 +22,9 @@ class Locations extends Component {
           defaultZoom={this.props.zoom}
         >
           <AnyReactComponent
-            lat={42.0499998}
+            lat={42.07}
             lng={-72.583331}
-            text={'Global Head Quart'}
+            className='mapText' text={'Global Headquarters'}
           />
         </GoogleMapReact>
       </div>
